@@ -1,10 +1,10 @@
 {
-  "name": "jacerider/vscode-drupal-neo",
+  "name": "jacerider/vscode-neo",
   "description": "Provides initial setup of Drupal based Neo projects.",
   "type": "library",
   "license": "proprietary",
   "require": {
     "augustash/vscode-drupal": "^1",
-    "jacerider/vscode-extension-drupal-neo": "^1"
+    "jacerider/vscode-extension-neo": "^1"
   }
 }
